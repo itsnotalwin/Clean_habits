@@ -1,0 +1,6 @@
+{
+  "name": "Chain",
+  "description": "Build habits and don't break the chain. An elegant, mobile-first streak tracker with custom calendar grids, milestone badges, and persistent statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
