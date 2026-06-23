@@ -1,0 +1,17 @@
+{
+  "name": "Chain - Streak Tracker",
+  "short_name": "Chain",
+  "description": "Build habits. Don't break the chain.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121110",
+  "theme_color": "#121110",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
